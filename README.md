@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there, I am Dheeraj Pal👋
+<hr>
+<ul>
+  <li>I am a <strong>Programmer</strong> and a <strong>Developer</strong></li>
+  <li>Preferred Programming Languages - <strong>C++ and Javascript</strong></li>
+ </ul>
 <!--
 **rdxdheeraj75/rdxdheeraj75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

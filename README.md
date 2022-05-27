@@ -2,7 +2,7 @@
 
 <ul>
   <li>I am a <strong>Programmer</strong> and a <strong>Developer</strong></li>
-  <li>Preferred Programming Languages - <strong>C++ and Javascript</strong></li>
+  <li>Preferred Programming Languages - <strong>C++, Java and Javascript</strong></li>
 </ul>
  
 <h2>📫 Connect with me:</h2>
